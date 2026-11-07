@@ -1,6 +1,6 @@
 # LE Digest — Subscriptions and Reports
 
-![Example topic subscription form](assets/overview-2026-10-24.png)
+![Example topic subscription form](assets/le-digest-topic-subscription-form.png)
 
 A site can offer useful information without making readers repeatedly return to every tool to check for changes. LE Digest connects topic subscriptions, downloadable resources and recurring reports in a WordPress experience, helping readers follow the subjects they chose.
 
